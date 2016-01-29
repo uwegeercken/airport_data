@@ -36,7 +36,8 @@ icao_code
 iata_code
 
 
-Individual fields are seperated by a semicolon (;).
+
+Individual fields are seperated by a semicolon (;). One file contains a header row and one file is without the header row.
 
 Do not use for navigational purposes!
 
